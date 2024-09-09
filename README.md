@@ -1,0 +1,2 @@
+# bitcoinminer
+simple BUT humble
